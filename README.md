@@ -81,29 +81,27 @@ Around 300 curated data science packages are included. You can review this at ti
 
 📂 Project File Structure
 
-'''text
+```text
 RAG-Based Project/
 │
-├── venv/                   # 🐍 Virtual environment for dependencies
+├── venv/ # Virtual environment
+├── audios/ # MP3 files from videos
+├── videos/ # Original video lectures
+├── jsons/ # Transcripts in JSON
 │
-├── audios/                 # 🎵 Extracted audio files (MP3 format)
-├── videos/                 # 🎥 Original video lectures (input source)
-├── jsons/                  # 📑 JSON chunks after speech-to-text (transcripts)
+├── output.json # Consolidated JSON output
+├── embedding.joblib # Embeddings for retrieval
 │
-├── output.json             # Consolidated JSON output (optional)
-├── embedding.joblib        # Vector embeddings stored for retrieval
+├── process_video.py # Convert videos → MP3
+├── process_incoming.py # Handle user queries
+├── read_chunks.py # RAG pipeline
+├── sts.py # Speech-to-text conversion
 │
-├── process_video.py        # 🎥 Converts videos → MP3 (audio extraction)
-├── process_incoming.py     # 📨 Handles incoming user queries
-├── read_chunks.py          # 🔎 Main RAG pipeline (retrieval + LLM response)
-├── sts.py                  # 🗣️ Speech-to-text pipeline (MP3 → JSON)
-│
-├── prompt.txt              # 📝 Last generated prompt (for debugging/inspection)
-├── response.txt            # 💡 Last model response (LLM answer)
-├── requirements.txt        # 📦 Python dependencies for the project
-├── README.md               # 📘 Project documentation
-'''
-
+├── prompt.txt # Last prompt
+├── response.txt # Last model response
+├── requirements.txt # Python dependencies
+└── README.md # Project documentation
+```
 
 📌 Notes
 
