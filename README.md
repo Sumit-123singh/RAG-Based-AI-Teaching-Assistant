@@ -13,7 +13,7 @@ Customizable prompt engineering
 
 ### 1️⃣ Clone the repo
 
-git clone https://github.com/yourusername/rag-teaching-assistant.git
+git clone https://github.com/Sumit-123singh/RAG-Based-AI-Teaching-Assistant
 cd rag-teaching-assistant
 
 
