@@ -81,7 +81,8 @@ Around 300 curated data science packages are included. You can review this at ti
 
 📂 Project File Structure
 
-'''RAG-Based Project/
+'''text
+RAG-Based Project/
 │
 ├── venv/                   # 🐍 Virtual environment for dependencies
 │
