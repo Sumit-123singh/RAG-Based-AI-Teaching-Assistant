@@ -81,7 +81,7 @@ Around 300 curated data science packages are included. You can review this at ti
 
 📂 Project File Structure
 
-RAG-Based Project/
+'''RAG-Based Project/
 │
 ├── venv/                   # 🐍 Virtual environment for dependencies
 │
@@ -101,6 +101,7 @@ RAG-Based Project/
 ├── response.txt            # 💡 Last model response (LLM answer)
 ├── requirements.txt        # 📦 Python dependencies for the project
 ├── README.md               # 📘 Project documentation
+'''
 
 
 📌 Notes
