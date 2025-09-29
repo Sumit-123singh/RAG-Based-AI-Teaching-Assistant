@@ -1,0 +1,7 @@
+I'd be happy to help you with your data science course!
+
+It seems like the user is looking for information about data science packages in Anaconda. According to the video chunks, this topic is covered in Video 1 of the "Installing Anaconda @unlocked" series.
+
+Specifically, the relevant content starts at around 79.2 seconds into the first video (Video 1) when the instructor mentions that you'll see around 300 curated data science packages. This information is repeated later in the same video, with more details about how these packages are related to data science and why they're important.
+
+If you'd like to watch the relevant part of the video, I recommend starting at timestamp 79.2 seconds into Video 1 (the "Installing Anaconda @unlocked" series).

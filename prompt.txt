@@ -1,0 +1,7 @@
+I am teaching a data science course. Here are video chunks containing video title, video number, start time in seconds, end time in seconds, and the text:
+
+[{"title":"1. Installing Anaconda  @unlocked","number":"1_1. Installing Anaconda  @unlocked_coding.mp4.mp3","start":79.2,"end":81.2,"text":" You get to see around 300 curated data science packages"},{"title":"1. Installing Anaconda  @unlocked","number":"1_1. Installing Anaconda  @unlocked_coding.mp4.mp3","start":123.2,"end":125.2,"text":" All these are data science libraries"},{"title":"1. Installing Anaconda  @unlocked","number":"1_1. Installing Anaconda  @unlocked_coding.mp4.mp3","start":31.2,"end":35.2,"text":" Why? Because we want to run python for data science"}]
+-------------------------
+
+whre is data science pacakage is taught in this course 
+User asked this question related to the video chunks. You must answer in a human way|(dont menstion the above format.its just for you) where and how much content is taught (which video and what timestamp) and guide the user to go to that particular video. If the user asks an unrelated question, tell him you can only answer questions related to the courses.
