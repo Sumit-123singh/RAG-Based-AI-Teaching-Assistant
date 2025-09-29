@@ -118,7 +118,9 @@ Depending on your hardware specifications, you can scale up the number of videos
 
 1. 🔎 **Advanced Retrieval** – Use FAISS/ChromaDB for faster and more accurate semantic search.  
 2. 📝 **Summarization & Notes** – Auto-generate concise video summaries, key points, and quizzes for quick revision. 3. 🖥️ **User-Friendly GUI** – Provide a smooth interface (Streamlit/Gradio) where users can upload videos, view transcripts, and interact in a chat-style Q&A.  
-4. 🤖 **GPT-5 Integration** – Add support for GPT-5 (and other top LLMs) for more accurate and context-aware answers.  
+4. 🤖 **GPT-5 Integration** – Add support for GPT-5 (and other top LLMs) for more accurate and context-aware answers.
+
+I was unable to upload the video and audio files because their sizes are too large. Additionally, due to time constraints and the lengthy content, I couldn’t process them in time. You can choose any video or audio of your choice for the task instead.
 
 
 👨‍💻 Author
